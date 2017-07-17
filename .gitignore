@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+cifar_data
+temp*
+EMR*
+cifar_data.txt
+cifar_map_reduce.py
