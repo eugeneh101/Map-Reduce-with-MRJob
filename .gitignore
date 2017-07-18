@@ -4,3 +4,5 @@ temp*
 EMR*
 cifar_data.txt
 cifar_map_reduce.py
+rootkey.csv
+output_data
